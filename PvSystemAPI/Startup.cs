@@ -56,7 +56,6 @@ namespace PvSystemAPI
 
             services.AddDbContext<kronosti_cbsContext>(options =>
                    options.UseSqlServer("Server=198.38.83.200;Database=kronosti_cbs;User ID=kronosti_cbs;Password=c3iwvosbfkqlnpaxgmhz"));
-        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
