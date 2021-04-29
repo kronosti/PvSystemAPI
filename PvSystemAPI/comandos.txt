@@ -1,0 +1,2 @@
+migracion de base de datos
+scaffold-DBContext "Server=198.38.83.200;Database=kronosti_cbs;User ID=kronosti_paviconuser;Password=tvozigemj0rdsxnphuac" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force -NoOnConfiguring
